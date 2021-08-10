@@ -1,0 +1,10 @@
+Status
+
+Prezados, bom dia 
+
+O faturamento de ontem foi de: R$ {faturamento:,.2f}. 
+
+A quantidade de produtos vendida foi: {qtdProd:,}. 
+
+Abs 
+{yourName}
